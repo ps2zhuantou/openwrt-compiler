@@ -49,7 +49,7 @@ env:
   REPO_BRANCH: master
   DEVICE_NAME: cr6608
   FILES: cr6608/files
-  FEEDS_CONF: cr6608/feeds.conf
+  FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: cr6608/seed.config
   DIY_P1_SH: cr6608/part1.sh
   DIY_P2_SH: cr6608/part2.sh
