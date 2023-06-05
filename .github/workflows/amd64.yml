@@ -46,7 +46,7 @@ on:
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: openwrt-18.06-k5.4
+  REPO_BRANCH: openwrt-23.05
   DEVICE_NAME: amd64
   FILES: amd64/files
   FEEDS_CONF: amd64/feeds.conf
