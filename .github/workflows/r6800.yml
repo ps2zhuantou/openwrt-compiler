@@ -45,7 +45,7 @@ on:
  #   - cron: 0 8 * * 6
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrtonly
+  REPO_URL: https://github.com/padavanonly/immortalwrt
   REPO_BRANCH: master
   DEVICE_NAME: r6800
   FILES: r6800/files
