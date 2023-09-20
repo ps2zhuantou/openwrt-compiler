@@ -45,9 +45,9 @@ on:
  #   - cron: 0 8 * * 6
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrt
-  REPO_BRANCH: master
-  DEVICE_NAME: newifi3
+  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
+  REPO_BRANCH: openwrt-21.02
+  DEVICE_NAME: hanwckf
   FILES: newifi3/files
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: newifi3/seed.config
