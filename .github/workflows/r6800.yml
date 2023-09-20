@@ -46,7 +46,7 @@ on:
 
 env:
   REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x
-  REPO_BRANCH: master
+  REPO_BRANCH: openwrt-21.02
   DEVICE_NAME: r6800
   FILES: r6800/files
   FEEDS_CONF: feeds.conf.default
