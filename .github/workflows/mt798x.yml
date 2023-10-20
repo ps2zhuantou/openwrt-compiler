@@ -23,7 +23,7 @@
 # └────────────────────────────────────────────────────────┘
 #
 
-name: rax3000m
+name: mt798x
 
 on:
   workflow_dispatch:
@@ -45,8 +45,8 @@ on:
  #   - cron: 0 8 * * 6
 
 env:
-  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
-  REPO_BRANCH: openwrt-21.02
+  REPO_URL: https://github.com/immortalwrt/immortalwrt
+  REPO_BRANCH: openwrt-23.05
   DEVICE_NAME: 3000m
   FILES: 3000m/files
   FEEDS_CONF: feeds.conf.default
